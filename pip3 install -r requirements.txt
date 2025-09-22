@@ -1,2 +1,1 @@
-python3 -m pip install --upgrade pip
-run pygame
+submit50 cs50/problems/2024/x/degrees
